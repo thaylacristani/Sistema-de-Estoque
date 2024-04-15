@@ -1,0 +1,14 @@
+C:\Users\thayl\OneDrive\Área de Trabalho\pti estoque\bin\Debug\net8.0\pti estoque.exe
+C:\Users\thayl\OneDrive\Área de Trabalho\pti estoque\bin\Debug\net8.0\pti estoque.deps.json
+C:\Users\thayl\OneDrive\Área de Trabalho\pti estoque\bin\Debug\net8.0\pti estoque.runtimeconfig.json
+C:\Users\thayl\OneDrive\Área de Trabalho\pti estoque\bin\Debug\net8.0\pti estoque.dll
+C:\Users\thayl\OneDrive\Área de Trabalho\pti estoque\bin\Debug\net8.0\pti estoque.pdb
+C:\Users\thayl\OneDrive\Área de Trabalho\pti estoque\obj\Debug\net8.0\pti estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Área de Trabalho\pti estoque\obj\Debug\net8.0\pti estoque.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\pti estoque\obj\Debug\net8.0\pti estoque.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Área de Trabalho\pti estoque\obj\Debug\net8.0\pti estoque.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\pti estoque\obj\Debug\net8.0\pti estoque.dll
+C:\Users\thayl\OneDrive\Área de Trabalho\pti estoque\obj\Debug\net8.0\refint\pti estoque.dll
+C:\Users\thayl\OneDrive\Área de Trabalho\pti estoque\obj\Debug\net8.0\pti estoque.pdb
+C:\Users\thayl\OneDrive\Área de Trabalho\pti estoque\obj\Debug\net8.0\pti estoque.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Área de Trabalho\pti estoque\obj\Debug\net8.0\ref\pti estoque.dll
